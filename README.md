@@ -13,3 +13,5 @@ The first web page is 'login.php' as customer and 'login_admin.php' as administr
 
 You'll need to insert yourself directly into the database if you want to log in as an administrator.
 
+Database is project.sql.
+
